@@ -8,6 +8,10 @@
 # - If the DCIM folder is turned off the Camera system is forced to choose the MicroSd Card storage path /Configure your camera application first.
 # - And there may be many more.
 
+#Feature
+1. No root required
+2. No busybox installed
+3. Colorfull & Simple
 
 #MAGIC WORD
 # A. Destroy is a deactivation label for a folder which is generally IMPORTANT it is interactive displays a prompt before you take action
