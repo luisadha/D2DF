@@ -460,7 +460,7 @@ current_value=$(test -d /sdcard/Sounds; echo $?)
       mkdir /sdcard/Sounds
 			;;
 			2)
-      rmdir /sdcard/Sounds 
+      rm -rf /sdcard/Sounds 
       touch /sdcard/Sounds > /dev/null 2>&1;
 			;;
 			0)
