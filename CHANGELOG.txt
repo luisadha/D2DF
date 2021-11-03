@@ -1,0 +1,9 @@
+# Latest
+### v1.0.1 [27 Oct 2021]
+# Removed busybox, Now, Allow running without busybox
+# Added feature label Destroy & R.I.P.
+# Added interactive prompt come with label feature
+
+## v1.0.0 [19 Oct 2021]
+# No root required
+# Pre-release
