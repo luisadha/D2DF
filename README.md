@@ -2,8 +2,9 @@
 ## Information
 
 D2DF stands for Destroy or Disable the Default Folder a small tool to disable some folder-related features
-or permanently delete unwanted folders on sdcard, delete them normally media system can still create folders automatically on sdcard,  Now they are no longer.
-This is an example of a folder: `DCIM` , `Pictures` , `Music` , `Download` and other.
+or permanently delete unwanted folders on sdcard, delete them normally media system can still create folders automatically when booting is complete
+on sdcard,  Now they are no longer.
+This is an example of an Default folder: `DCIM` , `Pictures` , `Music` , `Download` and other.
 
 ## What For
 
