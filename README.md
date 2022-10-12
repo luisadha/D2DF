@@ -38,4 +38,4 @@ BUGS REPORT, adharudin14@gmail.com
 
 
 <sub>**@noissee** :<sub>
-> like this:+1:
+> love this:+1:
