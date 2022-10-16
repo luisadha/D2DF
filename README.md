@@ -32,7 +32,7 @@ Colorful & Simple[^3].
 
 ## Licence
 > D2DF v1.0.1
-Copyright (C) 2021 DEVOLOPER. GPLv3+ license: GNU GPL version 3 or later http://gnu.org/licenses/gpl.html. This is free software: you are free to modify and redistribute it. NO WARRANTY, to the extent permitted by law. Written by Luis Adha
+Copyright (C) 2021 Luis Adha. GPLv3+ license: GNU GPL version 3 or later http://gnu.org/licenses/gpl.html. This is free software: you are free to modify and redistribute it. NO WARRANTY, to the extent permitted by law. Written by Luis Adha
 
 BUGS REPORT, adharudin14@gmail.com
 
