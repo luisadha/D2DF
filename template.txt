@@ -1,0 +1,73 @@
+MOVIES
+
+ ="/sdcard/
+ Movies
+ "; 
+if [ -e "$
+MOVIES
+
+" ]; then
+	if [ -d "$
+ MOVIES
+ " ]; then
+		 MOVIES
+   =$G"${ZERO}"$N
+	fi
+	if [ -f "$
+ MOVIES
+ " ]; then
+     MOVIES
+     =$B"${DIED}"$N
+	fi
+else
+	   MOVIES
+    =$R"${NOTFOUND}"$N
+fi
+		clear
+		echo -e $Y'[Destroy or Disable The Default Folder]'$N
+     echo -e $Y'
+     Movies
+     '$N
+		echo ''
+		echo -e $W"CURRENT:$
+  MOVIES 
+  "$N
+     echo -e $W"1. Default "$N
+		echo -e $W"2. Destroy ${R}[Not Recomended]"$N
+		echo -e $W'0. Go Back'$N
+		echo -e -n $W'^Choose one of these[0-2] >+'$N
+
+		read disable
+
+		case $disable in
+			1)
+      rm -f /sdcard/
+      Movies > /dev/null 2>&1;
+      mkdir /sdcard/
+      Movies
+			;;
+			2)
+echo "Destroy!!? files under 
+Movies
+ will be remove";
+      echo "[1:CONTINUE,0:BACK]";
+      read PROMPT
+      case $PROMPT in
+      1)
+      rm -rf /sdcard/
+      Movies
+      touch /sdcard/
+      Movies > /dev/null 2>&1;
+      ;;
+      0)
+      break
+      ;;
+      esac
+			;;
+			0)
+        clear
+        menu;
+			;;
+		esac
+   sleep $DELAY
+done
