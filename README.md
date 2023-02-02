@@ -31,7 +31,7 @@ Colorful & Simple[^3].
 * R.I.P Second word of Destroy
 * Off Second word Disable
 
-**P.S: Default Folder also can also be called Standard Folder according to Material Files**
+**P.S: Default Folder also can also be called Standard Folder according to [Material Files](https://f-droid.org/packages/me.zhanghai.android.files/)**
 
 ## Licence
 > D2DF v1.0.1
