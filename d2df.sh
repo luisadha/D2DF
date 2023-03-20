@@ -1,4 +1,6 @@
-#!/system/bin/sh
+#!/usr/bin/bash
+
+#/system/bin/sh
 #$0
 # D2DF stands for Destroy or Disable the Default Folder a small tool to disable some features or permanently remove unwanted folders, manually deleting it the media system can still create a folder on the sdcard (default automatically) and then I named it the default folder.
 # Built 19 Oct 2021 16.46.51 [v1.0.0]
