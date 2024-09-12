@@ -1,3 +1,7 @@
+# ========================= No Longer Supported =========================
+
+### This project has reached the end of development and is no longer supported
+
 # D2DF Tools
 [!] Notice: On some modern devices it may not work because the security system is constantly being updated
 
